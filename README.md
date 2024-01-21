@@ -26,7 +26,7 @@ ARRAY.sample
 
 6. add randomness for the damage like critical chance
 
-7. Instead of doing random actions, make yourself a player!
+7. Instead of doing random actions, make yourself a player where you can choose your actions.
 Use `gets.chomp` to get the user's input
 ```
 foo = gets.chomp # Inputs bar
