@@ -2,7 +2,7 @@
 
 
 ## Activity
-0. Clone this repo to your machine and open the folder in your preferred editor
+0. Fork this repo to your machine and open the folder in your preferred editor
 
 1. In `player.rb`, Define a method where player can heal using potions.
 Hint: use `self.hp` and `self.potions` to make the instance object change its attributes.
