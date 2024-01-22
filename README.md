@@ -4,7 +4,9 @@
 ## Activity
 0. Fork this repo and clone it to your machine and open the folder in your preferred editor
 
-1. In `player.rb`, modiify the `use_potion` method where a player can heal using potions and reduce the player's potion amount
+1. In `player.rb`, modiify the `use_potion` method where a player can heal using potions and reduce the player's potion amount.
+Hint: use `self.hp` and `self.potions` to make the instance object change its attributes.
+You can think of this like in javascript, `this.state.hp` `this.state.potions`
 
 2. In `arena.rb`, Create an instance variable for player and enemy
 
